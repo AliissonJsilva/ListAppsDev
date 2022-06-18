@@ -1,6 +1,7 @@
-## Lista de Linguagem de programação.:keyboard:
+## Linguagens de Programação :keyboard:
 
-###### Olá ! bem vindo a minha lista de linguagem para desenvolvimento.:call_me_hand:
+#### Olá ! Bem Vindo ao meu Menu de Linguagens :raised_hand_with_fingers_splayed:
 
-- Top List Dev.
 
+
+- Lista de Linguagens de Programação.
