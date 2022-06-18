@@ -1,5 +1,6 @@
-# Livro de receitas :man_cook:
+## Lista de Linguagem de programação.:keyboard:
 
-Olá ! bem vindo ao meu livro de receitas :call_me_hand:
+###### Olá ! bem vindo a minha lista de linguagem para desenvolvimento.:call_me_hand:
 
-- Strogonoff de frango
+- Top List Dev.
+
